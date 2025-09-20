@@ -1,0 +1,1 @@
+before deployment change every http://localhost:8080 to https://myapp-production-6903.up.railway.app (the live link)
